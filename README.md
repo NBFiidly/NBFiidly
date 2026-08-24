@@ -1,11 +1,24 @@
 <div align="center">
-  <!-- kamu bisa mengganti link di bawah dengan GIF pilihanmu -->
+  <!-- GIF Header -->
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amtyeHBpaG82ajZiMnlvNWwzMnNtZjJ3Y3ZqeDN3NnQ1Ymw0bmJzMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vrxxqQbyRxYi6scCjT/giphy.gif" width="400" alt="Coding GIF" />
 </div>
 
-# 👋 Halo, Saya Nur Bith Fidly, panggil aja Fidly!
+# 👋 Halo, namaku Nur Bith Fidly, panggil Fidly!
 
-Saya adalah seorang **Software Developer** yang berfokus pada pengembangan aplikasi Mobile dan Web, berbasis di Jambi. Saya suka membangun aplikasi yang antarmukanya interaktif sekaligus memiliki sistem *backend* yang tangguh.
+Aku adalah seorang **Software Developer** yang fokus ngembangkan aplikasi Mobile dan Web, yang berbasis di Jambi. Aku suka membangun aplikasi yang antarmukanya interaktif sekaligus memiliki sistem *backend* yang tangguh.
+
+### 🌐 Socials
+<div align="center">
+  <a href="https://linkedin.com/in/nb-fidly-919698253" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/username_instagram_kamu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://fidly-portfolio-v2.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 ### 🛠️ Skills & Tech Stack
 <div align="center">
@@ -24,21 +37,17 @@ Saya adalah seorang **Software Developer** yang berfokus pada pengembangan aplik
   <br><br>
   <!-- Tools, DevOps & Design -->
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NBFiidly&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="175" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NBFiidly&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" height="175" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NBFiidly&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
-
-### 🌐 Temukan Saya Di
-- 💼 **LinkedIn:** [Profil LinkedIn](https://linkedin.com/in/nb-fidly-919698253)
-- 🌐 **Portfolio:** [Link Portofolio](https://fidly-portfolio-v2.vercel.app/)
 
 ### ⚡ Fun Facts & Quotes
 - 📱 Sedang menikmati proses menyatukan *UI* cantik di Flutter/React dengan *Logic* mantap di Laravel/Node.js.
