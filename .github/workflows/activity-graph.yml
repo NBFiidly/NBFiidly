@@ -16,7 +16,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: NBFiidly
-          theme: tokyo-night
+          theme: github-dark
           hide_border: true
           output_path: dist/activity-graph.svg
 
