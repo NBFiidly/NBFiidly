@@ -46,7 +46,7 @@ Aku adalah seorang **Software Engineer** yang fokus ngembangkan aplikasi Mobile 
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NBFiidly/NBFiidly/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/NBFiidly/NBFiidly/output/activity-graph.svg?v=2" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ### 🐍 Contribution Snake
