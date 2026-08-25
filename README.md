@@ -46,7 +46,7 @@ Aku adalah seorang **Software Engineer** yang fokus ngembangkan aplikasi Mobile 
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NBFiidly&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/NBFiidly/NBFiidly/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
 </div>
 
 ### ⚡ Fun Facts & Quotes
