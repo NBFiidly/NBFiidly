@@ -49,6 +49,11 @@ Aku adalah seorang **Software Engineer** yang fokus ngembangkan aplikasi Mobile 
   <img src="https://raw.githubusercontent.com/NBFiidly/NBFiidly/output/activity-graph.svg" alt="GitHub Activity Graph" width="100%" />
 </div>
 
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NBFiidly/NBFiidly/output-snake/github-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
 ### ⚡ Fun Facts & Quotes
 - 📱 Sedang menikmati proses menyatukan *UI* cantik di Flutter/React dengan *Logic* mantap di Laravel/Node.js.
 - ☕ "*I turn coffee into code.*"
