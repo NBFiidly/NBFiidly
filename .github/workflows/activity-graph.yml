@@ -3,7 +3,7 @@ name: Generate Activity Graph
 on:
   schedule:
     - cron: "0 */12 * * *" # Otomatis update tiap 12 jam
-  workflow_dispatch: # Memungkinkan tombol "Run workflow" manual
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,8 +16,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: NBFiidly
-          theme: github-dark
-          hide_border: true
+          options: "theme: github-dark, hide_border: true"
           output_path: dist/activity-graph.svg
 
       - name: Push Activity Graph SVG
