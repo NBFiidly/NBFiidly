@@ -6,7 +6,6 @@
   </a>
 </div>
 
-# 👋 Halo, namaku Nur Bith Fidly, panggil Fidly!
 
 Aku adalah seorang **Software Engineer** yang fokus ngembangkan aplikasi Mobile dan Web, yang berbasis di Jambi. Aku suka membangun aplikasi yang antarmukanya interaktif sekaligus memiliki sistem *backend* yang tangguh.
 
