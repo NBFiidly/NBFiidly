@@ -6,9 +6,6 @@
   </a>
 </div>
 
-
-Aku adalah seorang **Software Engineer** yang fokus ngembangkan aplikasi Mobile dan Web, yang berbasis di Jambi. Aku suka membangun aplikasi yang antarmukanya interaktif sekaligus memiliki sistem *backend* yang tangguh.
-
 ### 🌐 Socials
 <div align="center">
   <a href="https://linkedin.com/in/nb-fidly-919698253" target="_blank">
