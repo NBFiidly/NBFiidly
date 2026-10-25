@@ -46,18 +46,20 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-### ⏱️ Coding Stats
+### ⏱️ Coding Dashboard
 <div align="center">
   <a href="https://wakatime.com/@1b0dbb6b-984f-4bbf-beda-d8ff1938b672" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/1b0dbb6b-984f-4bbf-beda-d8ff1938b672.svg?style=for-the-badge&theme=dark&logo=code&logoColor=58A6FF" alt="WakaTime coding stats" />
+    <img src="https://wakatime.com/badge/user/1b0dbb6b-984f-4bbf-beda-d8ff1938b672.svg?style=for-the-badge&theme=dark&logo=code&logoColor=58A6FF" alt="WakaTime total stats" />
   </a>
   <a href="https://wakatime.com/@1b0dbb6b-984f-4bbf-beda-d8ff1938b672" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/1b0dbb6b-984f-4bbf-beda-d8ff1938b672/interval:7-days.svg?style=for-the-badge&theme=dark&logo=clock&logoColor=58A6FF" alt="WakaTime weekly coding stats" />
+    <img src="https://wakatime.com/badge/user/1b0dbb6b-984f-4bbf-beda-d8ff1938b672/interval:7-days.svg?style=for-the-badge&theme=dark&logo=clock&logoColor=58A6FF" alt="WakaTime 7 day stats" />
   </a>
   <a href="https://wakatime.com/@1b0dbb6b-984f-4bbf-beda-d8ff1938b672" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/1b0dbb6b-984f-4bbf-beda-d8ff1938b672/interval:30-days.svg?style=for-the-badge&theme=dark&logo=calendar&logoColor=58A6FF" alt="WakaTime monthly coding stats" />
+    <img src="https://wakatime.com/badge/user/1b0dbb6b-984f-4bbf-beda-d8ff1938b672/interval:30-days.svg?style=for-the-badge&theme=dark&logo=calendar&logoColor=58A6FF" alt="WakaTime 30 day stats" />
   </a>
 </div>
+
+> Dashboard coding premium: total, 7 hari, dan 30 hari dari WakaTime.
 
 ### 📊 GitHub Activity
 <div align="center">
