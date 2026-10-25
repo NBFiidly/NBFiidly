@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=Nur%20Bith%20Fidly&fontSize=45&fontColor=58a6ff&animation=fadeIn" width="100%" alt="Header Banner" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Mobile+%26+Web+Developer;Flutter+%7C+React+%7C+Laravel+%7C+Node.js;Based+in+Jambi%2C+Indonesia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=50&lines=Software+Engineer;Mobile+Developer;Fullstack+Engineer;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
@@ -45,6 +45,15 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
+
+### ⏱️ WakaTime
+<div align="center">
+  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME" target="_blank">
+    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge" alt="WakaTime Stats" />
+  </a>
+</div>
+
+> Ganti `YOUR_WAKATIME_USERNAME` dan `YOUR_WAKATIME_USER_ID` dengan data akun WakaTime kamu agar badge tampil secara otomatis.
 
 ### 📊 GitHub Activity
 <div align="center">
