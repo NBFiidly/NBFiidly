@@ -46,14 +46,14 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-### ⏱️ WakaTime
+### ⏱️ Coding Stats
 <div align="center">
-  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME" target="_blank">
-    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge" alt="WakaTime Stats" />
+  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME" target="_blank" rel="noreferrer">
+    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge&theme=dark&logo=code&logoColor=58A6FF" alt="WakaTime coding stats" />
   </a>
 </div>
 
-> Ganti `YOUR_WAKATIME_USERNAME` dan `YOUR_WAKATIME_USER_ID` dengan data akun WakaTime kamu agar badge tampil secara otomatis.
+> Ganti `YOUR_WAKATIME_USERNAME` dan `YOUR_WAKATIME_USER_ID` dengan akun WakaTime kamu agar badge otomatis tampil.
 
 ### 📊 GitHub Activity
 <div align="center">
