@@ -46,19 +46,6 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-### ⏱️ Coding Dashboard
-<div align="center">
-  <a href="https://wakatime.com/@1b0dbb6b-984f-4bbf-beda-d8ff1938b672" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/1b0dbb6b-984f-4bbf-beda-d8ff1938b672.svg?style=for-the-badge&theme=dark&logo=code&logoColor=58A6FF" alt="WakaTime total stats" />
-  </a>
-  <a href="https://wakatime.com/@1b0dbb6b-984f-4bbf-beda-d8ff1938b672" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/1b0dbb6b-984f-4bbf-beda-d8ff1938b672/interval:7-days.svg?style=for-the-badge&theme=dark&logo=clock&logoColor=58A6FF" alt="WakaTime 7 day stats" />
-  </a>
-  <a href="https://wakatime.com/@1b0dbb6b-984f-4bbf-beda-d8ff1938b672" target="_blank" rel="noreferrer">
-    <img src="https://wakatime.com/badge/user/1b0dbb6b-984f-4bbf-beda-d8ff1938b672/interval:30-days.svg?style=for-the-badge&theme=dark&logo=calendar&logoColor=58A6FF" alt="WakaTime 30 day stats" />
-  </a>
-</div>
-
 ### 📊 GitHub Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/NBFiidly/NBFiidly/output/activity-graph.svg?v=2" alt="GitHub Activity Graph" width="100%" />
