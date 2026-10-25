@@ -51,9 +51,15 @@
   <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME" target="_blank" rel="noreferrer">
     <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg?style=for-the-badge&theme=dark&logo=code&logoColor=58A6FF" alt="WakaTime coding stats" />
   </a>
+  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME" target="_blank" rel="noreferrer">
+    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID/interval:7-days.svg?style=for-the-badge&theme=dark&logo=clock&logoColor=58A6FF" alt="WakaTime weekly coding stats" />
+  </a>
+  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME" target="_blank" rel="noreferrer">
+    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID/interval:30-days.svg?style=for-the-badge&theme=dark&logo=calendar&logoColor=58A6FF" alt="WakaTime monthly coding stats" />
+  </a>
 </div>
 
-> Ganti `YOUR_WAKATIME_USERNAME` dan `YOUR_WAKATIME_USER_ID` dengan akun WakaTime kamu agar badge otomatis tampil.
+> Ganti `YOUR_WAKATIME_USERNAME` dan `YOUR_WAKATIME_USER_ID` dengan akun WakaTime kamu agar semua badge tampil secara otomatis.
 
 ### 📊 GitHub Activity
 <div align="center">
