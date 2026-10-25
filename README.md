@@ -59,8 +59,6 @@
   </a>
 </div>
 
-> Dashboard coding premium: total, 7 hari, dan 30 hari dari WakaTime.
-
 ### 📊 GitHub Activity
 <div align="center">
   <img src="https://raw.githubusercontent.com/NBFiidly/NBFiidly/output/activity-graph.svg?v=2" alt="GitHub Activity Graph" width="100%" />
